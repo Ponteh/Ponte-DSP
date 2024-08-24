@@ -2,7 +2,7 @@
 
 ## English Description
 
-⚠️ **WARNING:** This plugin currently only works as a VST3 on **Windows**. Support for MacOS and Linux is not yet available but will be added in future updates.
+⚠️ **WARNING:** This plugin currently only works as a VST3 on **Windows**. Support for MacOS and Linux is not yet available but I hope will be added in future updates.
 
 This VST plugin provides a simple functionality to swap the left and right stereo channels in your audio signal.
 
@@ -28,7 +28,7 @@ This VST plugin provides a simple functionality to swap the left and right stere
 
 ## Descrizione in Italiano
 
-⚠️ **ATTENZIONE:** Questo plugin attualmente funziona solo come VST3 su **Windows**. Il supporto per MacOS e Linux non è ancora disponibile, ma verrà aggiunto in futuri aggiornamenti.
+⚠️ **ATTENZIONE:** Questo plugin attualmente funziona solo come VST3 su **Windows**. Il supporto per MacOS e Linux non è ancora disponibile, ma spero verrà aggiunto in futuri aggiornamenti.
 
 Questo plugin VST offre una funzionalità semplice per scambiare i canali stereo sinistro e destro nel segnale audio.
 
@@ -50,4 +50,4 @@ Questo plugin VST offre una funzionalità semplice per scambiare i canali stereo
 5. Osserva il colore del rettangolo per conoscere lo stato corrente del plugin:
    - Viola = Spento
    - Giallo = Acceso
-6. Se riscontri problemi, puoi aprire un Issue su GitHub o scrivermi su Instagram per parlarne. Trovi tutto al [questo link](https://ponte-dsp.fly.dev/).
+6. Se riscontri problemi, puoi aprire un Issue su GitHub o scrivermi su Instagram per parlarne. Trovi tutto a [questo link](https://ponte-dsp.fly.dev/).

@@ -1,8 +1,8 @@
 {
-  "Name": "DaVinci",
-  "Version": "1.0.0",
+  "Name": "PhaseComp",
+  "Version": "0.0.2",
   "Factory Info": {
-    "Vendor": "Ponte",
+    "Vendor": "PonteDSP",
     "URL": "https://ponte-dsp.fly.dev/",
     "E-Mail": "",
     "Flags": {
@@ -13,12 +13,12 @@
   },
   "Classes": [
     {
-      "CID": "ABCDEF019182FAEB4A75636544656D30",
+      "CID": "ABCDEF019182FAEB4A75636544656D33",
       "Category": "Audio Module Class",
-      "Name": "DaVinci",
-      "Vendor": "Ponte",
-      "Version": "1.0.0",
-      "SDKVersion": "VST 3.7.11",
+      "Name": "PhaseComp",
+      "Vendor": "PonteDSP",
+      "Version": "0.0.2",
+      "SDKVersion": "VST 3.7.12",
       "Sub Categories": [
         "Fx",
       ],
@@ -28,12 +28,12 @@
       ],
     },
     {
-      "CID": "ABCDEF011234ABCD4A75636544656D30",
+      "CID": "ABCDEF011234ABCD4A75636544656D33",
       "Category": "Component Controller Class",
-      "Name": "DaVinci",
-      "Vendor": "Ponte",
-      "Version": "1.0.0",
-      "SDKVersion": "VST 3.7.11",
+      "Name": "PhaseComp",
+      "Vendor": "PonteDSP",
+      "Version": "0.0.2",
+      "SDKVersion": "VST 3.7.12",
       "Sub Categories": [
         "Fx",
       ],
@@ -43,12 +43,12 @@
       ],
     },
     {
-      "CID": "ABCDEF01C0DEF00D4A75636544656D30",
+      "CID": "ABCDEF01C0DEF00D4A75636544656D33",
       "Category": "Plugin Compatibility Class",
-      "Name": "DaVinci",
-      "Vendor": "Ponte",
-      "Version": "1.0.0",
-      "SDKVersion": "VST 3.7.11",
+      "Name": "PhaseComp",
+      "Vendor": "PonteDSP",
+      "Version": "0.0.2",
+      "SDKVersion": "VST 3.7.12",
       "Class Flags": 0,
       "Cardinality": 2147483647,
       "Snapshots": [
